@@ -1,4 +1,4 @@
-# youplay
+# youplay [![Build Status](https://travis-ci.org/MarounMaroun/youplay.svg?branch=master)](https://travis-ci.org/MarounMaroun/youplay)
 
 Open YouTube videos from your shell.
 
